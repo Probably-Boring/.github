@@ -23,7 +23,7 @@ It turns out that the “boring” stuff — the basics, the routines, the found
 
 Feel free to poke around, try stuff out, and open issues if you find bugs or ideas. If you want, share your own “boring” projects or improvements!
 
-And if you haven’t yet, check out the newsletter [here](https://probablyboring.substack.com/) for new ideas and thoughts every week.
+And if you haven’t yet, check out the newsletter [here](https://probablyboring.substack.com/) for new ideas and thoughts.
 
 ---
 
