@@ -1,6 +1,6 @@
 ![probablyboring logo](https://github.com/Probably-Boring/.github/blob/main/Logo.png?raw=true)
 
-Hey there! Welcome to the **Probably Boring** GitHub organization — where I share all the code, projects, and tools that go along with my *probablyboring* newsletter.
+Hey there! Welcome to the **Probably Boring** GitHub organization — where I share all the code, projects, and tools that go along with my *Probably Boring* newsletter.
 
 ## What’s Probably Boring?
 
