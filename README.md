@@ -1,12 +1,10 @@
 ![probablyboring logo](https://github.com/Probably-Boring/.github/blob/main/Logo.png?raw=true)
 
-# probablyboring
+Hey there! Welcome to the **Probably Boring** GitHub organization — where I share all the code, projects, and tools that go along with my *probablyboring* newsletter.
 
-Hey there! Welcome to the **probablyboring** GitHub organization — where I share all the code, projects, and tools that go along with my *probablyboring* newsletter.
+## What’s Probably Boring?
 
-## What’s probablyboring?
-
-*probablyboring* is my Substack where I dig into the art of making "boring" stuff — especially using AI.
+*Probably Boring* is my Substack where I dig into the art of making "boring" stuff — especially using AI.
 
 I don’t mean boring as in dull — I mean the everyday, repetitive, and simple things that most people overlook. Because honestly, getting those right is where a lot of magic happens.
 
